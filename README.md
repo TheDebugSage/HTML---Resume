@@ -13,8 +13,13 @@ https://html-resumemyproject.netlify.app/
 ---
 
 ## 📸 Screenshots
-<img width="1661" height="800" alt="Screenshot 2026-01-29 at 9 28 58 PM" src="https://github.com/user-attachments/assets/f69d6fff-b5a0-40de-903c-7a672638264c" />
+<img width="1592" height="645" alt="Screenshot 2026-01-29 at 9 54 18 PM" src="https://github.com/user-attachments/assets/908577db-38c2-43d6-83c0-9094a136e38e" />
 
+## Setup steps
+Open the Project
 
+Open index.html in any web browser:
 
+Double-click the file
 
+OR right-click → Open with Browser
